@@ -40,5 +40,4 @@ import { HeroSearchComponent }  from "./hero-search.component";
 
 
 export class AppModule {
-
 }
